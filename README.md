@@ -1,1 +1,1 @@
-# Send-Email---PHP-Sendinblue
+# Sending Email with PHPMailer and Sendinblue
